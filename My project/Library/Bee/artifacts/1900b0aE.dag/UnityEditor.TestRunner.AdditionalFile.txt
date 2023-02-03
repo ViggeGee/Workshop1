@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\shari\OneDrive\Dokument\GitHub\Workshop1\My project
+=======
+C:\Users\tegel\Documents\GitHub\Workshop1\My project
+>>>>>>> 50b5203722a05fee3791c194296bfaa4c0ce6362
